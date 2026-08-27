@@ -1,1 +1,0 @@
-Place the model file in this location. Then delete this text file.
